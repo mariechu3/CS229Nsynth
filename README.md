@@ -1,0 +1,2 @@
+# NSynth
+This repository contains material based on [Naddim Kawwa's](https://github.com/NadimKawwa/NSynth) Udacity's Machine Learning Engineer Nando Degree (MLEND) capstone project. The objective of this project is to classify wave files (.wav) based on their instrument family. 

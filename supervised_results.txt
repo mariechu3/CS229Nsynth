@@ -1,0 +1,9 @@
+Naive Bayes: 
+  old_accuracy 12.28  train_10k_accuracy 10.9
+Random forrest: 
+  old_accuracy 57.15 train_10k_accuracy 48.7
+Grid Search / random Forrest random :
+  old_accuracy 61.13 train_10k_accuracy 54.10
+
+SVM:
+  old_accuracy 3.44 train_10k_accuracy 3.30

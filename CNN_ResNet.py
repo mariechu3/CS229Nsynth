@@ -19,7 +19,7 @@ import torch.optim as optim
 import torch.nn.functional as F
 import numpy as np
 import torchvision
-ufrom torchvision import *
+from torchvision import *
 from torch.utils.data import Dataset, DataLoader
 
 import matplotlib.pyplot as plt
